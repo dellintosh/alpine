@@ -2,7 +2,7 @@ pipeline:
 
   docker:
     image: plugins/docker
-    repo: e20co/base-alpine
+    repo: e20co/alpine
     tag: 3.5
     file: Dockerfile
     when:
