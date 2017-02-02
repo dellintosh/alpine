@@ -17,5 +17,4 @@ RUN apk add --no-cache curl \
 ##
 ## INIT
 ##
-
 ENTRYPOINT [ "/init" ]
