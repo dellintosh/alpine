@@ -1,5 +1,5 @@
 FROM alpine:3.5
-MAINTAINER ECG Engineering <techalerts@expansioncapitalgroup.com>
+MAINTAINER Justus Luthy <justus@luthyenterprises.com>
 
 ##
 ## ROOTFS
